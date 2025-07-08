@@ -282,8 +282,8 @@ main {
     font-family: "Zeyada", cursive;
     font-size: x-large;
 }
-#PokemonGoButton:hover{
-    font-weight:bolder;
+#PokemonGoButton:hover {
+    font-weight: bolder;
     cursor: pointer;
     box-shadow:
         0 0 30px 15px white,
