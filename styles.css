@@ -275,6 +275,13 @@ main {
   padding-right: 20px;
 }
 
+#PokemonGoButton {
+    border: none;
+    background-color: transparent;
+    color: maroon;
+    font-family: "Zeyada", cursive;
+    font-size: large;
+}
 /* Resume Button */
 .myResume {
   position:relative;
@@ -333,14 +340,6 @@ main {
   background-color: bisque;
   color: maroon;
 } */
-
-#PokemonGoButton {
-    border: none;
-    background-color: transparent;
-    color: maroon;
-    font-family: "Zeyada", cursive;
-    font-size: large;
-}
 
 .resumeSection img {
   display: flex;
