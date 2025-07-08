@@ -275,6 +275,13 @@ main {
   padding-right: 20px;
 }
 
+#PokemonGoButton {
+    border: none;
+    background-color: transparent;
+    color: maroon;
+    font-family: "Zeyada", cursive;
+    font-size: large;
+    
 #PokemonGoID {
   border: none;
   background-color: rgba(153, 215, 188, 0.789);
