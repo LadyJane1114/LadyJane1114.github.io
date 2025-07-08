@@ -306,7 +306,7 @@ main {
   padding:50px;
 }
 
-#RUSure {
+/* #RUSure {
   border: none;
   background-color: rgba(153, 215, 188, 0.789);
   box-shadow: 0px 6px 4px -4px rgba(155, 139, 120, 0.619);
@@ -332,6 +332,14 @@ main {
 #RUSure button:hover {
   background-color: bisque;
   color: maroon;
+} */
+
+#PokemonGoButton {
+    border: none;
+    background-color: transparent;
+    color: maroon;
+    font-family: "Zeyada", cursive;
+    font-size: large;
 }
 
 .resumeSection img {
