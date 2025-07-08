@@ -280,7 +280,15 @@ main {
     background-color: transparent;
     color: maroon;
     font-family: "Zeyada", cursive;
-    font-size: large;
+    font-size: x-large;
+}
+#PokemonGoButton:hover{
+    font-weight:bolder;
+    cursor: pointer;
+    box-shadow:
+        0 0 30px 15px white,
+        0 0 50px 30px gold,
+        0 0 70px 45px white;
 }
 /* Resume Button */
 .myResume {
