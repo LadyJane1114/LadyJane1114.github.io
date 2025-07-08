@@ -517,6 +517,8 @@ footer .container {
 @media (min-width: 641px) {
   footer .container {
   flex-direction: row;
+      position:absolute;
+      bottom:0;
   }
 }
 .copyright {
